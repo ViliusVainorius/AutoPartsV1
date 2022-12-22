@@ -1,0 +1,78 @@
+.registerBody{
+    width:100%;
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.26), rgba(0, 0, 0, 0.151)), url("../assets/background.jpg") no-repeat center / cover;
+}
+
+.center-middle{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+
+
+.form-signput h2{
+    text-align: center;
+}
+
+.form-signup-Register {
+	height: 680px;
+    width: 400px;
+    background-color: rgba(182, 2, 2, 0.24);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(16, 7, 11, 0.616);
+    padding: 50px 35px;
+}
+
+.form-signup {
+	height: 520px;
+    width: 400px;
+    background-color: rgba(182, 2, 2, 0.24);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid rgba(255,255,255,0.1);
+    box-shadow: 0 0 40px rgba(16, 7, 11, 0.616);
+    padding: 50px 35px;
+    padding-top: 30px;
+}
+
+.buttonLog{
+	font-weight: 300;
+	font-size: 16px;
+	color: #180e3d;
+	background-color: #bfdc36;
+	padding: 7px 20px;
+	border: none;
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+	border-radius: 50px;
+	transition : 738ms;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	cursor: pointer;
+	text-transform: lowercase;
+}
+	
+.buttonLog:hover{
+	
+transition : 738ms;
+padding: 8px 30px;
+font-size: 18px;
+background-color: #fcf6f6c0;
+color: #000000;
+border: none;
+}

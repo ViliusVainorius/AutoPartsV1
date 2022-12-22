@@ -5,7 +5,7 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoPartsV1", "AutoPartsV1\AutoPartsV1.csproj", "{9E273A12-5C56-4255-9A34-D261249B2D59}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AutoParts-fe", "AutoParts-fe", "{148FD7FD-9CCB-4B0C-98F6-B3781755833A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TEST", "TEST", "{148FD7FD-9CCB-4B0C-98F6-B3781755833A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
